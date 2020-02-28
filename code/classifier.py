@@ -2,7 +2,6 @@ import os, glob, pandas as pd
 import string, re
 import numpy as np
 from collections import Counter
-import numbers
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 from string import ascii_lowercase

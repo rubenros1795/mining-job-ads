@@ -8,4 +8,5 @@ The classifier identifies qualitative ("high wage!") and quantitative ("wage of 
 
 ## Usage
 
-Use `pip requirements.txt` to install the necessary modules. Edit the paths to `/resources` and `/data` in the `classifier.py` script. The script exports the classified job advertisements in `[input-csv-name]_processed.csv` files.
+Use `pip requirements.txt` to install the necessary modules. Edit the paths to `/resources` and `/data` in the `classifier.py` script. The script exports the classified job advertisements in `[input-csv-name]_processed.csv` files. The list with occupation titles is drawn from the [HISCO dataverse](https://datasets.iisg.amsterdam/dataverse/HISCO). When using the HISCO data, cite: 
+- Mandemakers, K., Mourits, R., and Muurling, S. (2019). HSN HISCO Release 2018/01, December. Publisher: IISH Data Collection.

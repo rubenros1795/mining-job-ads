@@ -1,4 +1,6 @@
-# Mining Job Advertisements from Historical Newspapers
+# Mining Wages in Nineteenth-Century Job Advertisements
+
+Code and resources for the paper "Mining Wages in Nineteenth-Century Job Advertisements: The Application of Language Resources and Language Technology to study Economic and Social Inequality". Submitted to the workshop "LR4SSHOC: LREC2020 workshop about Language Resources for the SSH Cloud"
 
 This repository contains scripts for extracting information on wages in nineteenth-century job advertisements, printed in digitized historical newspapers. The newspapers are extraced by using the [National Library API](https://www.kb.nl/bronnen-zoekwijzers/dataservices-en-apis). Newspapers printed before 1876 are free of copyrights. Mining newspapers printed after 1876 requires an API-key.
 
